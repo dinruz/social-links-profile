@@ -1,6 +1,7 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -17,7 +18,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 
-This is a solution for Social Links Profile challenge based on given instructions and the provided preview photos.
+This is a solution dor Social Links Profile challengr on [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
+Solution is based on given instructions and the provided preview photos.
 
 
 ### Screenshot
@@ -29,18 +31,18 @@ This is a solution for Social Links Profile challenge based on given instruction
 
 ## My process
 
-* **Developed as part of:** The Frontend Mentor challenge
+- **Developed as part of:** The Frontend Mentor challenge
 
-* **Creation Date:** 04-07-2025
+- **Creation Date:** 04-07-2025
 
-* **Completion Date:** n/a
+- **Completion Date:** n/a
 
-* **Status:** In progress
+- **Status:** In progress
 
 ### Built with
 
-- HTML5
-- CSS 
+* HTML5
+* CSS 
 
 
 ### What I learned
